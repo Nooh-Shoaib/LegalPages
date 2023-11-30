@@ -1,35 +1,35 @@
 {
-  "legalData": [
+  "legalpagesData": [
     {
       "slug": "about-us",
       "id": "about-us",
-      "aboutUsTitle": "About Us",
+      "pageTitle": "About Us",
       "description": [
         {
-          "descriptionText": "We utilize the environment and customer-friendly raw material for printing boxes without compromising the top quality. Our competent and experienced employees enable you to experience flawless printing.  We have something for everyone and each occasion, services, and product. You can have a look at our high-quality packaging items on our internet site.",
-          "descriptionHeading": "CLIENT SATISFACTION, OUR MOST PRECIOUS ASSET"
+          "Text": "We utilize the environment and customer-friendly raw material for printing boxes without compromising the top quality. Our competent and experienced employees enable you to experience flawless printing.  We have something for everyone and each occasion, services, and product. You can have a look at our high-quality packaging items on our internet site.",
+          "Heading": "CLIENT SATISFACTION, OUR MOST PRECIOUS ASSET"
         }
       ]
     },
     {
       "slug": "privacy-policy",
       "id": "privacy-policy",
-      "privacyTitle": "Privacy Policy",
+      "pageTitle": "Privacy Policy",
       "description": [
         {
-          "descriptionHeading": "SUPPLEMENTS OF INFORMATION",
-          "descriptionText": "Suppose we decide to transform our privacy policy. In that case, we will certainly post those modifications to this personal privacy declaration, the homepage, and also various other places we deem appropriate, so our users are always aware of what information we gather, how we use it, and under what scenarios, if any, we divulge it. We will use info by the privacy plan under which the info was gathered. Suppose nonetheless, we will use users' personally identifiable information in a way different from that specified one at the time of collection. "
+          "Heading": "SUPPLEMENTS OF INFORMATION",
+          "Text": "Suppose we decide to transform our privacy policy. In that case, we will certainly post those modifications to this personal privacy declaration, the homepage, and also various other places we deem appropriate, so our users are always aware of what information we gather, how we use it, and under what scenarios, if any, we divulge it. We will use info by the privacy plan under which the info was gathered. Suppose nonetheless, we will use users' personally identifiable information in a way different from that specified one at the time of collection. "
         }
       ]
     },
     {
       "slug": "terms-conditions",
       "id": "terms-conditions",
-      "TermsConditionsTitle": "Terms & Conditions",
+      "pageTitle": "Terms & Conditions",
       "description": [
         {
-          "descriptionHeading": "Phone: (410) 834-9965",
-          "descriptionText": "Email: support@sireprinting.com"
+          "Heading": "Phone: (410) 834-9965",
+          "Text": "Email: support@sireprinting.com"
         }
       ]
     }

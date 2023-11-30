@@ -3,7 +3,7 @@
     {
       "slug": "about-us",
       "id": "about-us",
-      "pageTitle": "About Us",
+      "Title": "About Us",
       "description": [
         {
           "Text": "We utilize the environment and customer-friendly raw material for printing boxes without compromising the top quality. Our competent and experienced employees enable you to experience flawless printing.  We have something for everyone and each occasion, services, and product. You can have a look at our high-quality packaging items on our internet site.",
@@ -14,7 +14,7 @@
     {
       "slug": "privacy-policy",
       "id": "privacy-policy",
-      "pageTitle": "Privacy Policy",
+      "Title": "Privacy Policy",
       "description": [
         {
           "Heading": "SUPPLEMENTS OF INFORMATION",
@@ -25,7 +25,7 @@
     {
       "slug": "terms-conditions",
       "id": "terms-conditions",
-      "pageTitle": "Terms & Conditions",
+      "Title": "Terms & Conditions",
       "description": [
         {
           "Heading": "Phone: (410) 834-9965",

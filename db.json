@@ -22,7 +22,7 @@
     {
       "slug": "privacy-policy",
       "id": "privacy-policy",
-      "image": "https://s3.amazonaws.com/sireprinting.com/images/privacy_policy-min_m8yc0d.webp"
+      "image": "https://s3.amazonaws.com/sireprinting.com/images/privacy_policy-min_m8yc0d.webp",
       "pagetitle": "Privacy Policy",
       "description": [
         {
@@ -58,7 +58,7 @@
     {
       "slug": "terms-conditions",
       "id": "terms-conditions",
-      "image": "https://s3.amazonaws.com/sireprinting.com/images/terms_conditions-min_yqkb7x.webp"
+      "image": "https://s3.amazonaws.com/sireprinting.com/images/terms_conditions-min_yqkb7x.webp",
       "pagetitle": "Terms & Conditions",
       "description": [
         {

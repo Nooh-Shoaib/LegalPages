@@ -56,8 +56,8 @@
           "heading": "HOW TO GET IN TOUCH WITH SIREPRINTING.COM?",
           "text": "If there are any questions regarding this privacy plan, you might call us to use the details below."
         },  {
-          "heading": "Phone: (410) 834-9965",
-          "heading": "Email: support@sireprinting.com"
+          "phone": "Phone: (410) 834-9965",
+          "email": "Email: support@sireprinting.com"
         }
       ]
     }

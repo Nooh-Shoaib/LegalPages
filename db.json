@@ -1,8 +1,8 @@
 {
   "pagedata": [
     {
-      "slug": "about-us",
-      "id": "about-us",
+      "link": "about-us"
+      "id": "2",
       "pagetitle": "About Us",
       "description": [
         {
@@ -20,8 +20,8 @@
       ]
     },
     {
-      "slug": "privacy-policy",
-      "id": "privacy-policy",
+     "link": "privacy-policy"
+      "id": "3",
       "image": "https://s3.amazonaws.com/sireprinting.com/images/privacy_policy-min_m8yc0d.webp",
       "pagetitle": "Privacy Policy",
       "description": [
